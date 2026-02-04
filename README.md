@@ -27,11 +27,14 @@ This project is currently **under development** and focuses on clean UI, smooth 
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🔐 Login Screen
-![Login Screen](log%20in%20screen.png)
+![Login Screen](./log%20in%20screen.png)
 
 ### 👋 Welcome Screen
-![Welcome Screen](welcome%20screen.png)
+![Welcome Screen](./welcome%20screen.png)
+
 
 
 ## 🚀 Project Status
