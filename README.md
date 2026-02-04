@@ -30,11 +30,12 @@ This project is currently **under development** and focuses on clean UI, smooth 
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-<img width="293" height="506" alt="log_in_screen" src="https://github.com/user-attachments/assets/060630b7-07e3-4a52-af8d-6e0acbd787b5" />
+<img width="290" height="500" alt="log_in_screen" src="https://github.com/user-attachments/assets/06755537-6f13-44a9-aeac-dd07f0f072d0" />
+
 
 
 ### 👋 Welcome Screen
-<img width="361" height="649" alt="welcome_screen" src="https://github.com/user-attachments/assets/a3e4cf81-6e8e-413f-bf3d-8c5d8cfc8de5" />
+<img width="347" height="625" alt="welcome_screen" src="https://github.com/user-attachments/assets/da87c555-a80f-4282-9389-ea93f1862bc7" />
 
 
 
