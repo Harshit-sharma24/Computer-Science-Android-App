@@ -30,10 +30,12 @@ This project is currently **under development** and focuses on clean UI, smooth 
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](./log%20in%20screen.png)
+<img width="293" height="506" alt="log_in_screen" src="https://github.com/user-attachments/assets/060630b7-07e3-4a52-af8d-6e0acbd787b5" />
+
 
 ### 👋 Welcome Screen
-![Welcome Screen](./welcome%20screen.png)
+![Welcome Screen](./welcome%20screen.png)![Uploading log_in_screen.png…]()
+
 
 
 
