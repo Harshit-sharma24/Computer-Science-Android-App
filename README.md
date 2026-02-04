@@ -34,7 +34,8 @@ This project is currently **under development** and focuses on clean UI, smooth 
 
 
 ### 👋 Welcome Screen
-![Welcome Screen](./welcome%20screen.png)![Uploading log_in_screen.png…]()
+<img width="361" height="649" alt="welcome_screen" src="https://github.com/user-attachments/assets/a3e4cf81-6e8e-413f-bf3d-8c5d8cfc8de5" />
+
 
 
 
