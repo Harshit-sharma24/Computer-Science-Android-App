@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_stroke">#000000</color>
+
+
+        <!-- Toolbar / AppBar colors -->
+        <color name="toolbar_light_orange">#FFE0B2</color>
+        <color name="toolbar_light_blue">#BBDEFB</color>
+        <color name="toolbar_light_green">#C8E6C9</color>
+        <color name="toolbar_light_grey">#F5F5F5</color>
+        <color name="toolbar_peach">#FFD6C9</color>
+
+    <color name="toolbar_light_pink">#F8BBD0</color>
+    <color name="toolbar_light_peach">#FFD6C9</color>
+    <color name="toolbar_light_purple">#E1BEE7</color>
+    <color name="toolbar_light_yellow">#FFF9C4</color>
+    <color name="toolbar_light_teal">#B2DFDB</color>
+    <color name="dark_blue">#0D47A1</color>
+
+
+
+
+
+    <color name="grad1_start">#FF6FD8</color>
+    <color name="grad1_end">#FF9A8B</color>
+
+    <color name="grad2_start">#FDBB2D</color>
+    <color name="grad2_end">#22C1C3</color>
+
+
+
+
+    <color name="white">#FFFFFFFF</color>
+</resources>
