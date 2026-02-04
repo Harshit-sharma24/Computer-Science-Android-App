@@ -25,21 +25,6 @@ This project is currently **under development** and focuses on clean UI, smooth 
 
 ---
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-
-### 🔐 Login Screen
-<img width="290" height="500" alt="log_in_screen" src="https://github.com/user-attachments/assets/06755537-6f13-44a9-aeac-dd07f0f072d0" />
-
-
-
-### 👋 Welcome Screen
-<img width="347" height="625" alt="welcome_screen" src="https://github.com/user-attachments/assets/da87c555-a80f-4282-9389-ea93f1862bc7" />
-
-
-
-
 
 ## 🚀 Project Status
 
